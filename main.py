@@ -20,4 +20,5 @@ print("essai de non-ecrasement")
 
 #Noan 04/05/2004 : 
 print("essai de non-ecrasement 2")
-#fin session
+#fin session de Noan
+
