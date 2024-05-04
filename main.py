@@ -8,3 +8,7 @@ def nyya (x):
 print("gorlfd")
 
 print("essai de push")
+
+#Noan 04/05/2004 : 
+print("essai de non-ecrasement")
+#fin session
