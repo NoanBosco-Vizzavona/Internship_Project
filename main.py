@@ -17,3 +17,7 @@ print("essai de non-ecrasement")
 #Antonin 04/05/2004 : 
 print("essai de non-ecrasement")
 #fin session
+
+#Noan 04/05/2004 : 
+print("essai de non-ecrasement 2")
+#fin session
