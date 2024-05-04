@@ -12,3 +12,8 @@ print("essai de push")
 #Noan 04/05/2004 : 
 print("essai de non-ecrasement")
 #fin session
+
+
+#Antonin 04/05/2004 : 
+print("essai de non-ecrasement")
+#fin session
