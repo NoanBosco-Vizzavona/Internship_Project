@@ -4,3 +4,5 @@ def nyya (x):
     if x == 0 :
         print("nyaaaa")
     return
+
+print("gorlfd")
